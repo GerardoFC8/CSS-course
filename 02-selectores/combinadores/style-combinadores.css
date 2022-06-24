@@ -39,3 +39,9 @@
 .subtitulo:hover + .parrafo{
     opacity: 1;
 } */
+
+/* Combinadores de hermanos generales */
+
+.subtitulo ~ .parrafo{
+    background-color: red;
+}
