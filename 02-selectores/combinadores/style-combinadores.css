@@ -14,4 +14,28 @@
 
 /* Combinador de hijos directos */
 
+.listas > .lista{
+    list-style: upper-roman;
+}
 
+.dias > .lista{
+    color: orangered;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* Combinador de hermano adyacente */
+
+/* .subtitulo + *{
+    background-color: yellow;
+    opacity: 0;
+    transition: 1s;
+}
+
+.subtitulo:hover{
+    background-color: steelblue;
+}
+
+.subtitulo:hover + .parrafo{
+    opacity: 1;
+} */
