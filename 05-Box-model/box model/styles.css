@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-family: Georgia;
+}
+
+/* capa de contenido */
+
+.card{
+    background-color: royalblue;
+    color: white;
+    width: auto;
+    display: block;
+    width: 300px;
+    /* max-width: 300px;
+    min-width: 200px; */
+    /* min-height: 300px; */
+    /* height: auto;
+    overflow: auto; */
+
+    /* padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+    padding-left: 80px; */
+    padding: 15px 40px;
+
+    /* border: 3px solid black; */
+    /* border-width: 20px;
+    border-style: solid;
+    border-color: black; */
+
+    /* border-style: dotted dashed double solid; */
+    /* border-style: dotted dashed double; */
+    /* border-style: dotted dashed; */
+    /* border-style: dotted; */
+
+    /* border-top-color: red;
+    border-right-color: black;
+    border-bottom-color: yellow;
+    border-left-color: purple; */
+
+    /* border-color: crimson black yellow purple;
+    border-color: crimson black yellow;
+    border-color: crimson black; */
+
+    /* border-color: crimson ; */
+
+    border: 5px solid crimson;
+}
+
+.card--one{
+    /* margin-top: 50px;
+    margin-right: 30px;
+    margin-bottom: 70px;
+    margin-left: 10px; */
+
+    /* margin: 50px 30px 70px 10px; */
+    /*  margin-right: auto;
+    margin-left: auto; */
+}
+
+.main{
+    background-color: steelblue;
+    color: white;
+}
+
+.footer{
+    background-color: slateblue;
+    color: white;
+}
+
